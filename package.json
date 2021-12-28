@@ -36,7 +36,7 @@
     "typescript": "4.5.4"
   },
   "dependencies": {
-    "relatives-tree": "3.1.x"
+    "relatives-tree": "estyxx/relatives-tree#5200daf"
   },
   "homepage": "https://github.com/SanichKotikov/react-family-tree"
 }
